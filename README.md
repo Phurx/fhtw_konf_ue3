@@ -1,2 +1,1 @@
-# fhtw_konf_ue3
-Konfigurationsmanagement Übung
+addition to Readme for conflict
